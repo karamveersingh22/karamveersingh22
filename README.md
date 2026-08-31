@@ -1,26 +1,17 @@
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/e3xxtsa4w5q3gwc3r8ubdiv8-dark.svg?v=1788154913110">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/e3xxtsa4w5q3gwc3r8ubdiv8-light.svg?v=1788154913110">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/e3xxtsa4w5q3gwc3r8ubdiv8-dark.svg?v=1788154913110">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
-
-<h1 align="center">Hey, I'm Karamveer 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Karamveer%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%C2%B7%20GenAI%20%C2%B7%20Agentic%20Systems&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;GenAI+%26+Agentic+Systems;IT+Undergrad+%40+IIIT+Bhubaneswar;I+ship+things+that+actually+run" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=540&lines=IT+Undergrad+%40+IIIT+Bhubaneswar;I+build+LLM-powered+products;FastAPI+%2B+Next.js+%2B+RAG;I+ship+things+that+actually+run" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/karamveersingh22?tab=followers"><img src="https://img.shields.io/github/followers/karamveersingh22?style=for-the-badge&color=6C63FF&labelColor=0d1117&logo=github" alt="followers"/></a>
+  <a href="https://karamveer-portfolio-gray.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="mailto:karamveersinghsuri@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
   <a href="https://leetcode.com/u/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
-  <a href="https://github.com/karamveersingh22/karamveer-portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/karamveersingh22?tab=followers"><img src="https://img.shields.io/github/followers/karamveersingh22?style=for-the-badge&color=6C63FF&labelColor=0d1117&logo=github" alt="followers"/></a>
 </p>
 
 ---
@@ -47,7 +38,7 @@ fun_fact: "most of my best code is written after midnight"
 | **[Warranty Portal](https://github.com/karamveersingh22/warranty_portal_backend)** | End-to-end warranty management system with LLM-based enquiry classification and routing | `FastAPI` `React` `PostgreSQL` |
 | **[Ledger](https://github.com/karamveersingh22/ledger)** | Accounting / ledger portal built during a full-stack internship | `TypeScript` `Next.js` |
 | **[Upload Ledger](https://github.com/karamveersingh22/upload_ledger)** | CLI utility that pushes local files straight into the web app | `Python` |
-| **[Portfolio](https://github.com/karamveersingh22/karamveer-portfolio)** | Personal site — projects, resume, contact | `HTML` `CSS` `JS` |
+| **[Portfolio](https://karamveer-portfolio-gray.vercel.app/)** | Personal site — projects, resume, contact | `HTML` `CSS` `JS` |
 
 ---
 
@@ -96,11 +87,7 @@ fun_fact: "most of my best code is written after midnight"
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karamveersingh22&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karamveersingh22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=karamveersingh22&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 ---
@@ -117,3 +104,5 @@ fun_fact: "most of my best code is written after midnight"
   <i>Building, breaking, and rebuilding — one commit at a time.</i><br/>
   <img src="https://komarev.com/ghpvc/?username=karamveersingh22&style=flat-square&color=6C63FF" alt="profile views"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
